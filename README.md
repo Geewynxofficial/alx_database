@@ -1,1 +1,1 @@
-my first SQL README
+This is my read-me file
