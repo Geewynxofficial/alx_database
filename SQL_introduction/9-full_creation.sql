@@ -1,5 +1,5 @@
 -- create a table 
- CREATE TABLE second_table(id INT AUTO_INCREMENT PRIMARY KEY
+ CREATE TABLE IF NOT EXISTS second_table(id INT AUTO_INCREMENT PRIMARY KEY
  name VARCHAR(256)
  score INT
  );
