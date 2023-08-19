@@ -5,7 +5,7 @@
  );
 
  -- Inserting data
- INSERT INTO second_table VALUES 
+ INSERT INTO second_table(id, name, score) VALUES 
  (1, "John", 10),
  (1, "Alex", 3),
  (1, "Bob", 14),
