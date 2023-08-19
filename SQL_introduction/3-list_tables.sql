@@ -1,2 +1,2 @@
 --list all the tables
-SELECT * FROM;
+SHOW TABLES;
