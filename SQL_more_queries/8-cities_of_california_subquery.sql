@@ -1,6 +1,6 @@
 -- list of all cities in the database
 SELECT cities.id, cities.name FROM cities;
-ORDER BY cities.id ASC
+ORDER BY cities.id ASC;
 LIMIT 3;
 -- WHERE cities.state_id = (
 --   SELECT states.id FROM states
